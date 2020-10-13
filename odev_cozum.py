@@ -3,7 +3,8 @@
 """
 Created on Thu Mar 15 04:18:20 2018
 
-@author: sadievrenseker
+@author: kadirtaban
+
 """
 
 #1. kutuphaneler
